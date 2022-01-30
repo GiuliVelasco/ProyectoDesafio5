@@ -1,0 +1,29 @@
+.logo {
+    border-radius: 100px;
+}
+.fondoheader{
+    background-image: url(../img/portada2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 265px;
+}
+.navcolor{
+    color: #EEEBDD;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+.fondonav{
+    background-color: #810000;
+}
+.colortitulo{
+    color: #CE1212;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+.fondofooter{
+    background-color: #EEEBDD;
+}
+.leyendaImg{
+    font-size: 4rem;
+}
