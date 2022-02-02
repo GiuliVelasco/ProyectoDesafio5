@@ -5,7 +5,7 @@
     background-image: url(../img/portada2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 265px;
+    min-height: 240px;
 }
 .navcolor{
     color: #EEEBDD;
@@ -21,9 +21,18 @@
     text-decoration: none;
     font-weight: bold;
 }
+.tituloMain{
+    font-size: 2rem;
+}
 .fondofooter{
     background-color: #EEEBDD;
 }
 .leyendaImg{
-    font-size: 4rem;
+    font-size: 2rem;
+}
+.nav-link:hover{
+    color: #EEEBDD;
+}
+.videoIndex{
+    margin-bottom: 2rem;
 }
